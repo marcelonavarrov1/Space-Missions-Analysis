@@ -16,8 +16,30 @@ The development of this project was part of a python course I completed. The dat
 5. How did lauches changed over the months and years present in the database?
 
 ## Skills / concepts demostrated
-
-## Modelling
+-Implementation of libraries such as Pandas, Plotly Express, iso3166, and Seaborn.
+-Grouping data into different categories and preparing it for visualization.
+-Data transformation:
+  -Extracting data from within strings.
+  -Conversion into different data types (e.g., from string to integer, float, etc.).
+  -Generating general descriptive statistics of variables.
+  -Utilizing dictionaries to map country names.
+  -Employing country names to obtain corresponding ISO codes.
+  -Converting time units to facilitate plotting various data over time.
+  -Applying rolling mean for data smoothing.
 
 ## Visualization
-
+1. What was the structure of the database?
+  1.  the shape of the dataframe is (4324, 9)
+  2.the columns names are:
+     Unnamed: 0.1
+     Unnamed: 0
+     Organisation
+     Location
+     Date
+     Detail
+     Rocket_Status
+     Price
+     Mission_Status
+2. What were the differences between organisations in terms of launches and money spent?
+![](launchesxorganisation.png)
+![](money-launch-org.png)
