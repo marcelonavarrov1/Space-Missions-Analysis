@@ -53,6 +53,5 @@ The development of this project was part of a python course I completed. The dat
 5. How did lauches changed over the months and years present in the database?
    ![](launchesxyear.png)
    ![](month-launcher-roll.png)
-   ![](launchesxcountry.png)
    ![](year-launches-country.png)
    ![](year-launches-organization.png)
