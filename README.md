@@ -5,7 +5,7 @@
 ## Introduction
 This project analyzes and creates visualizations of a space missions database with the objective of elucidating the differences and characteristics of how companies and countries are involved in the "Space Race."
 
-The development of this project was part of a python course I completed. The database utilized was scraped from nextflight.com.
+The development of this project was part of a python course I completed. The database utilized was scraped from nextflight.com. To see the complete code and other visualizations of the project, you can access the notebook in this link https://drive.google.com/file/d/14tMzDUFyKophH2bI1xGGMKRyF5ak7MGT/view?usp=sharing
 
 
 ## Problem Statment
