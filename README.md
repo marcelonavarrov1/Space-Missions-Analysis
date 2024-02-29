@@ -12,7 +12,7 @@ The development of this project was part of a python course I completed. The dat
 1. What was the structure of the database?
 2. What were the differences between organisations in terms of launches and money spent?
 3. What was the distribution of the prices?
-4. What where the differences between countries in terms of launches and money spent?
+4. What where the differences between countries in terms of launches?
 5. How did lauches changed over the months and years present in the database?
 
 ## Skills / concepts demostrated
@@ -41,5 +41,18 @@ The development of this project was part of a python course I completed. The dat
      Price
      Mission_Status
 2. What were the differences between organisations in terms of launches and money spent?
-![](launchesxorganisation.png)
-![](money-launch-org.png)
+  ![](launchesxorganisation.png)
+  ![](money-launch-org.png)
+3. What was the distribution of the prices?
+  ![](how-expensive-are-the-launches.png)
+  ![](prices-box-plot.png)
+4. What where the differences between countries in terms of launches?
+  ![](launchesxcountry.png)
+  ![](failuresxcountry.png)
+  ![](pie-mission-status.png)
+5. How did lauches changed over the months and years present in the database?
+   ![](launchesxyear.png)
+   ![](month-launcher-roll.png)
+   ![](launchesxcountry.png)
+   ![](year-launches-country.png)
+   ![](year-launches-organization.png)
