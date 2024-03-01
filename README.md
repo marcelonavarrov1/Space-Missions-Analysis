@@ -70,7 +70,7 @@ The development of this project was part of a python course I completed. The dat
    The USA has consistently led the number of launches per year. Interestingly, China's number 
    of launches has been steadily incresing over the years.
 
-   ![](year-launches-country.png)
-   ![](year-launches-country.png)
+   ![](failuresontime.png)
+   ![](pctfailuresxlaunch.png)
    
    
