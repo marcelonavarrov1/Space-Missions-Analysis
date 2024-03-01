@@ -17,7 +17,9 @@ The development of this project was part of a python course I completed. The dat
 
 ## Skills / concepts demostrated
 -Implementation of libraries such as Pandas, Plotly Express, iso3166, and Seaborn.
+
 -Grouping data into different categories and preparing it for visualization.
+
 -Data transformation:
   -Extracting data from within strings.
   -Conversion into different data types (e.g., from string to integer, float, etc.).
