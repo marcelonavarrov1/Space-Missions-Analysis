@@ -38,16 +38,16 @@ The development of this project was part of a python course I completed. The dat
 
 ## Visualizations and comments
 1. What was the structure of the database?
-  1.  the shape of the dataframe is (4324, 9)
-  2.the columns names are:
-     Unnamed: 0.1
-     Unnamed: 0
-     Organisation
-     Location
-     Date
-     Detail
-     Rocket_Status
-     Price
+   -the shape of the dataframe is (4324, 9)
+   -the columns names are:
+     Unnamed: 0.1,
+     Unnamed: 0,
+     Organisation,
+     Location,
+     Date,
+     Detail,
+     Rocket_Status,
+     Price,
      Mission_Status
 2. What were the differences between organisations in terms of launches and money spent?
   ![](launchesxorganisation.png)
