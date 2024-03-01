@@ -53,25 +53,27 @@ The development of this project was part of a python course I completed. The dat
   ![](launchesxorganisation.png)
   CASC is the organisation with more launches. Furthermore, between the first four 
   organisations three are from the USA.
+
   ![](money-launch-org.png)
-  Even if CASC is the organisation with more launches, we can see that NASA spent more money      per launch.
-4. What was the distribution of the prices?
+  Even if CASC is the organisation with more launches, we can see that NASA spent more money per launch.
+
+3. What was the distribution of the prices?
   ![](how-expensive-are-the-launches.png)
   ![](prices-box-plot.png)
   The average price per project was 153.79 million USD. As shown in the boxplot and in 
   the distribution, among the outliers, the highest price represents two misions of RVSN USSR 
   (Russia).
-6. What where the differences between countries in terms of launches?
+4. What where the differences between countries in terms of launches?
   ![](launchesxcountry.png)
   ![](failuresxcountry.png)
   In these two maps choropleth maps, there is a clear advantage for the USA over the rest of 
   the countries. Additionally, the USA and Russia have better ratio between Launches 
   and failures than China, who shows a higher number of failures per launch.
+  
   ![](pie-mission-status.png)
   Ratio between success and failure for each country and organisation.
 
-8. How did lauches changed over the months and years present in the database in terms of quantity and successes?
-   
+5. How did lauches changed over the months and years present in the database in terms of quantity and successes?
    ![](launchesxyear.png)
    The amount of launches per year has a growing tendence.
    ![](month-launcher-roll.png)
