@@ -50,12 +50,12 @@ The development of this project was part of a python course I completed. The dat
      Price,
      Mission_Status
 2. What were the differences between organisations in terms of launches and money spent?
-  ![](launchesxorganisation.png)
-  CASC is the organisation with more launches. Furthermore, between the first four 
-  organisations three are from the USA.
+     ![](launchesxorganisation.png)
+      CASC is the organisation with more launches. Furthermore, between the first four 
+      organisations three are from the USA.
 
-  ![](money-launch-org.png)
-  Even if CASC is the organisation with more launches, we can see that NASA spent more money per launch.
+     ![](money-launch-org.png)
+     Even if CASC is the organisation with more launches, we can see that NASA spent more money per launch.
 
 3. What was the distribution of the prices?
   ![](how-expensive-are-the-launches.png)
