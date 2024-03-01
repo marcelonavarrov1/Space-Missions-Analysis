@@ -13,7 +13,7 @@ The development of this project was part of a python course I completed. The dat
 2. What were the differences between organisations in terms of launches and money spent?
 3. What was the distribution of the prices?
 4. What where the differences between countries in terms of launches?
-5. How did lauches changed over the months and years present in the database?
+5. How did launches changed over the months and years present in the database?
 
 ## Skills / concepts demostrated
 -Implementation of libraries such as Pandas, Plotly Express, iso3166, and Seaborn.
@@ -27,7 +27,7 @@ The development of this project was part of a python course I completed. The dat
   -Converting time units to facilitate plotting various data over time.
   -Applying rolling mean for data smoothing.
 
-## Visualization
+## Visualizations and comments
 1. What was the structure of the database?
   1.  the shape of the dataframe is (4324, 9)
   2.the columns names are:
@@ -42,16 +42,35 @@ The development of this project was part of a python course I completed. The dat
      Mission_Status
 2. What were the differences between organisations in terms of launches and money spent?
   ![](launchesxorganisation.png)
+  CASC is the organisation with more launches. Furthermore, between the first four 
+  organisations three are from the USA.
   ![](money-launch-org.png)
-3. What was the distribution of the prices?
+  Even if CASC is the organisation with more launches, we can see that NASA spent more money      per launch.
+4. What was the distribution of the prices?
   ![](how-expensive-are-the-launches.png)
   ![](prices-box-plot.png)
-4. What where the differences between countries in terms of launches?
+  The average price per project was 153.79 million USD. As shown in the boxplot and in 
+  the distribution, among the outliers, the highest price represents two misions of RVSN USSR 
+  (Russia).
+6. What where the differences between countries in terms of launches?
   ![](launchesxcountry.png)
   ![](failuresxcountry.png)
+  In these two maps choropleth maps, there is a clear advantage for the USA over the rest of 
+  the countries. Additionally, the USA and Russia have better ratio between Launches 
+  and failures than China, who shows a higher number of failures per launch.
   ![](pie-mission-status.png)
-5. How did lauches changed over the months and years present in the database?
+  Ratio between success and failure for each country and organisation.
+8. How did lauches changed over the months and years present in the database?
    ![](launchesxyear.png)
+   The amount of launches per year has a growing tendence.
    ![](month-launcher-roll.png)
+   
    ![](year-launches-country.png)
    ![](year-launches-organization.png)
+   The USA has consistently led the number of launches per year. Interestingly, China's number 
+   of launches has been steadily incresing over the years.
+
+   ![](year-launches-country.png)
+   ![](year-launches-country.png)
+   
+   
