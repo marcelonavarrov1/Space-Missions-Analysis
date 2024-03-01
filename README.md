@@ -60,7 +60,9 @@ The development of this project was part of a python course I completed. The dat
   and failures than China, who shows a higher number of failures per launch.
   ![](pie-mission-status.png)
   Ratio between success and failure for each country and organisation.
-8. How did lauches changed over the months and years present in the database?
+
+8. How did lauches changed over the months and years present in the database in terms of quantity and successes?
+   
    ![](launchesxyear.png)
    The amount of launches per year has a growing tendence.
    ![](month-launcher-roll.png)
@@ -72,5 +74,9 @@ The development of this project was part of a python course I completed. The dat
 
    ![](failuresontime.png)
    ![](pctfailuresxlaunch.png)
+   As shown in the graphic, the number of failures over time has steadily increased. This could 
+   be attributed to the increased number of launches. However, when put into perspective, the 
+   percentage of failures relative to the number of launches has decreased over time. This 
+   trend indicates that launches have become more secure.
    
    
