@@ -70,8 +70,8 @@ The development of this project was part of a python course I completed. The dat
   the countries. Additionally, the USA and Russia have better ratio between Launches 
   and failures than China, who shows a higher number of failures per launch.
   
-  ![](pie-mission-status.png)
-  Ratio between success and failure for each country and organisation.
+    ![](pie-mission-status.png)
+    Ratio between success and failure for each country and organisation.
 
 5. How did lauches changed over the months and years present in the database in terms of quantity and successes?
    ![](launchesxyear.png)
